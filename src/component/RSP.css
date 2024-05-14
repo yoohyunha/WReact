@@ -1,0 +1,27 @@
+.RSP {
+    display: flex;
+    flex-direction: row; 
+    justify-content: center; 
+    text-align: center;
+    margin-top: 20px;
+}
+.userImg,.computerImg {
+    max-width: 150px;
+    margin: 10px;
+}
+  
+.RSP me{
+    margin-right: 50%;
+
+}
+
+.RSP you{
+    margin-left: 50%;
+
+}
+
+.Result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
